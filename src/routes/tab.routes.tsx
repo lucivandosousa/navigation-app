@@ -18,7 +18,7 @@ export default function TabRoutes() {
       }}
     >
       <Tab.Screen
-        name="Home"
+        name="Feed"
         component={Home}
         options={{
           headerShown: false,
